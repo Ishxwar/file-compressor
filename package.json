@@ -1,0 +1,15 @@
+{
+  "name": "file-compressor",
+  "version": "1.0.0",
+  "description": "CLI file compressor with license validation",
+  "main": "compressor.obf.cjs",
+  "bin": "compressor.obf.cjs",
+  "scripts": {},
+  "author": "",
+  "license": "MIT",
+  "pkg": {
+    "assets": [
+      "public.pem"
+    ]
+  }
+}

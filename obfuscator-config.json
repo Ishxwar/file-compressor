@@ -1,0 +1,13 @@
+{
+  "controlFlowFlattening": true,
+  "selfDefending": true,
+  "reservedNames": [
+    "^process$",
+    "^require$",
+    "^__dirname$",
+    "^fs$",
+    "^path$",
+    "^crypto$",
+    "^zlib$"
+  ]
+}
