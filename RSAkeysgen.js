@@ -17,3 +17,4 @@ fs.writeFileSync("private.pem", privateKey);
 fs.writeFileSync("public.pem", publicKey);
 
 console.log("RSA key pair generated.");
+// pgp encryption

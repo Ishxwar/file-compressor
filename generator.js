@@ -1,6 +1,6 @@
 const payload = {
   name: "Ishwar",
-  tier: "basic",
+  tier: "Basic",
   issuedAt: "10-07-2025",
   expiresAt: "10-07-2026",
 };

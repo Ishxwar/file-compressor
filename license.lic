@@ -1,9 +1,9 @@
 {
   "payload": {
     "name": "Ishwar",
-    "tier": "basic",
+    "tier": "Basic",
     "issuedAt": "10-07-2025",
     "expiresAt": "10-07-2026"
   },
-  "signature": "QbpU8+ItP0PA248aS853Zfjpu80HkkFPTjo6ToXnqpwNHz6xQUyn9n+15eu+Iz6gayibtvv+BrDEzsF51jyk2UMI+Ufope8L1/lXfSu3bUOddBufUgdIthttBWGbVBZJ5ToScrOTwY/HpV7xlVl0wXQE+ro9XvIXsqRariqNuycHMGJqGk3y9ITMymaEABUaq49BPXeBYyxNm5x1NxijN069PqkU45b2XoymNqgMa6/KHghLmmbxyOvorQ3wqfigTXiM54z7X4rgt9E6rJ+tjfB63VrRYbCbDfppjPqvfuzOjbp9i6+gedu4STseusU6sd89OP/3SWqdOhWoSU1EaA=="
+  "signature": "KWoWm/aBIRGxQ8V2qy2EonR+ckoSpBHQqCemRE9DPNH9/TJA3n3BDI9/hgUxEMs1kyVKxW7wONwPa59OZlEKUi8BMb9Z/W6TotAqPiKY3yK/CsoNV0Edyv57jzVjUh2Qb2JuW9v/oxT4DV+Zkriv0KvjGM+eROrw+3+1xLkEWUgG9sEp0egWqvfN3CZoRql3VdopyN4MjTPgyTkoh3bEgpk6wCNkLlij93JwoqvEJQXyWEP+C1VfAGuGnIAzN9LiG+dOpBjmwLBWEfDTUy6gMyOJFhaDEh0EIrGWdtjOuK3/QCLh8LNFyk81Jz/Flio8IP/bWrE/j/V5/qsZUDBr3A=="
 }
